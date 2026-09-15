@@ -1,0 +1,35 @@
+<Solution>
+  <Project Path="IF-01/IF-01.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="5ac97af9-e242-4b8e-9fe8-ff3952a04633">
+    <Build Project="false" />
+  </Project>
+  <Project Path="IF-02/IF-02.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="c247936e-9ef7-48ac-97c3-ca4ef5235ddd">
+    <Build Project="false" />
+  </Project>
+  <Project Path="IF-03/IF-03.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="ed340498-7be2-4c6d-8876-ac7c15bf7444">
+    <Build Project="false" />
+  </Project>
+  <Project Path="IF-08/IF-08.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="46c4286d-8600-4611-9c76-5a874a7518b1">
+    <Build Project="false" />
+  </Project>
+  <Project Path="IF-09/IF-09.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="467db72c-e364-47c5-9ebc-85ad14cb67c9">
+    <Build Project="false" />
+  </Project>
+  <Project Path="IF-10/IF-10.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="4906dedf-f1c2-46a1-ba7a-a121b6df8e25">
+    <Build Project="false" />
+  </Project>
+  <Project Path="IF-11/IF-11.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="1f86cc15-1bf6-4077-8424-e5e95361a871">
+    <Build Project="false" />
+  </Project>
+  <Project Path="IF-12/IF-12.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="fca8e837-6f5d-4499-acb4-80960846735a">
+    <Build Project="false" />
+  </Project>
+  <Project Path="IF-13/IF-13.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="8e2609bf-c8ef-4eb1-b1e7-fff881e3db8e">
+    <Build Project="false" />
+  </Project>
+  <Project Path="IF-14/IF-14.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="6e1b9c57-e173-4d97-a526-ecb4cb4f647b">
+    <Build Project="false" />
+  </Project>
+  <Project Path="IF-15/IF-15.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="25f6c1bc-0c40-4863-9db8-7243330f33ad">
+    <Build Project="false" />
+  </Project>
+</Solution>
