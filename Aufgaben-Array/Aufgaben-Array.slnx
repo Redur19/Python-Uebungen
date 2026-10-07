@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="Array-01/Array-01.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="64e1e512-6a01-4f7a-a616-8c85e57e6470">
+    <Build Project="false" />
+  </Project>
+  <Project Path="Array-02/Array-02.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="4d6ff62c-339c-44ca-8d35-d7b0a07ff237">
+    <Build Project="false" />
+  </Project>
+  <Project Path="Array-03/Array-03.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="ddc613e2-fedb-4875-b1b8-22df9a6720e1">
+    <Build Project="false" />
+  </Project>
+  <Project Path="Array-04/Array-04.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="0c3ab426-77fa-4507-950f-31f26d64cd6d">
+    <Build Project="false" />
+  </Project>
+</Solution>
