@@ -1,7 +1,7 @@
-"""Array03
-Schreiben Sie ein Programm, das das größte Element in einem Array findet. 
+#Array-03
+'''Schreiben Sie ein Programm, das das größte Element in einem Array findet. 
 Das Array und das größte Element sollen später als Ausgabe angezeigt werden.
-"""
+'''
 import random
 anzahl = int(input("Geben Sie die Anzahl der Elemente im Array ein: "))
 arr01 = [0] * anzahl

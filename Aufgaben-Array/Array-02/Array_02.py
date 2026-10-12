@@ -1,4 +1,11 @@
-anzahl= int(input("Geben Sie die ANzahl der Schüler ein: "))
+#Array-02
+'''Schreiben Sie ein Programm, das die Noten von Schülern in einem Fach speichert und
+den Durchschnitt berechnet.
+Der Nutzer soll dabei folgende Eingaben tätigen:
+    • Anzahl der Schüler
+    • Das Fach in die Noten geschrieben wurden
+    • Noten der Schüler'''
+anzahl= int(input("Geben Sie die Anzahl der Schüler ein: "))
 arr=[0] * anzahl 
 fach=str(input("Geben Sie das Fach ein: "))
 summe= 0
